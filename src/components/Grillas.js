@@ -34,6 +34,7 @@ export default function CSSGrid() {
 
             <h1>Información Personal</h1>
             <br></br>
+            <p>Pasen porno por prontipagos</p>
             <Box
               component="form"
               sx={{
