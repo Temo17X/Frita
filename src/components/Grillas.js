@@ -33,7 +33,7 @@ export default function About() {
           <Grid item xs={3}>
             <Item>
           <h1>Foto de perfil</h1>
-          <h5>Todas las caras son hermosas</h5>
+          <h5>Todas las caras son hermosas xddddd</h5>
               <img src={senuez}/>
               <br></br>
               <p>Foto de perfil</p>
